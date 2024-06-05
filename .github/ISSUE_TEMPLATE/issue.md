@@ -1,7 +1,7 @@
 ---
 name: Issue
 about: Create an issue.
-title: '[Title of User Story]: [Title of Issue]'
+title: '[Title of Issue]'
 labels: ''
 assignees: ''
 
@@ -11,11 +11,10 @@ This is an issue!
 
 1. Please use the following format for the title:
 
-<Title of User Story>: <Title of Issue>
+<Title of Issue>
 
 2. Please fill out this description with the following:
 
-- Relates to <user story #>
 - Any additional information you feel is necessary.
 - Screenshots/gifs/videos/diagrams/other visual aids.
 
