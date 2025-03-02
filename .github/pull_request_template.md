@@ -1,6 +1,6 @@
 
 <!-- Please use the following format for the title:-->
-<!-- < repo > _ < sprint > _ < issue > _ < pr / issue name > -->
+<!-- <repo>_<sprint#>_<issue#>_<PR-title> -->
 
 <!-- Example: appdev-repo_88_888_example-pr-name -->
 
