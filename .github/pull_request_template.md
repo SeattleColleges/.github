@@ -41,6 +41,6 @@
 
 - [ ] I have **tested** this PR **locally** and it works as expected.
 - [ ] This PR **resolves an issue** (`Resolves #issue-number`).
-- [ ] **Reviewers, assignees, and labels** are correctly assigned. <!-- on the menu to the right -->
+- [ ] **Reviewers, assignees(self), tags, and labels** are correctly assigned. <!-- on the menu to the right -->
 - [ ] **Squash commits** and enable **auto-merge** if approved.
 
