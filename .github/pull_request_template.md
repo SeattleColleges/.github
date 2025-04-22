@@ -5,7 +5,7 @@
 <!-- Example: appdev-repo_88_888_example-pr-name -->
 
 <!-- Please fill out the following: -->
-## Sunmmary & Changes 📃
+## Summary & Changes 📃
 - **Resolves:** `#issue-number`
 
 - **Summary:** (Briefly describe what this PR does)
